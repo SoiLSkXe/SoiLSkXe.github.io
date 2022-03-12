@@ -1,0 +1,4 @@
+[submodule "ER-matbin-js"]
+	path = ER-matbin-js
+	url = https://github.com/SoiLSkXe/ER-matbin-js.git
+	branch = main
